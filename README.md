@@ -1,4 +1,5 @@
-# payments-doc
+# DEPRECATED 
+# Actual version https://docs.poluspay.com/
 
 This document searches for integration and interaction between merchants and [poluspay.com](https://poluspay.com) – explore our guide with examples and start accept crypto now! If you have any questions, feel free to ask us for help [polus_alex](https://t.me/polus_alex)
 
